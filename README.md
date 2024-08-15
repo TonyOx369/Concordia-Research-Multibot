@@ -41,20 +41,11 @@ Names and poses for the robots in nav2 example
 ```
 ros2 launch turtlebot3_multi_robot gazebo_multi_nav2_world.launch.py 
 ```
-![image](https://github.com/arshadlab/turtlebot3_multi_robot/assets/85929438/621f8884-1cd4-4eab-8ab4-50c1fd42d13b)
 
 
-Rviz2 output for first robot
-
-![image](https://github.com/arshadlab/turtlebot3_multi_robot/assets/85929438/0c3eaae5-74f0-40e8-be80-91bcf2266a4a)
-
-Rviz2 output for all 4 robots
-
-![image](https://github.com/arshadlab/turtlebot3_multi_robot/assets/85929438/e3ae59a2-ddae-4c80-8232-2d06d053b3e8)
-
+[three.webm](https://github.com/user-attachments/assets/97ac50bc-6281-464f-9f48-2ae6f4c0eb3a)
 
 
 **References**: https://medium.com/@arshad.mehmood/a-guide-to-multi-robot-navigation-utilizing-turtlebot3-and-nav2-cd24f96d19c6
-https://raw.githubusercontent.com/TonyOx369/Concordia-Research-Multibot/main/assets/one.webm
-![Screenshot from 2024-07-31 12-49-32](https://github.com/user-attachments/assets/17734e19-083c-4a4f-a3d9-905e2c6241be)
+
 
