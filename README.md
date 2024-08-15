@@ -44,6 +44,12 @@ Names and poses for the robots in nav2 example
 ```
 ros2 launch turtlebot3_multi_robot gazebo_multi_nav2_world.launch.py 
 ```
+```
+ros2 run turtlebot3_multi_robot goal_listener_and_sender.py 
+```
+```
+ros2 run turtlebot3_multi_robot spawn.py 
+```
 
 
 [three.webm](https://github.com/user-attachments/assets/97ac50bc-6281-464f-9f48-2ae6f4c0eb3a)
