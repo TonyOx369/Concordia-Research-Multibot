@@ -19,8 +19,6 @@ ros2 launch turtlebot3_multi_robot gazebo_multi_world.launch.py
 
 ![image](https://github.com/arshadlab/turtlebot3_multi_robot/assets/85929438/fc958709-018d-48d2-b5b6-6674b53913c8)
 
-![image](https://github.com/arshadlab/turtlebot3_multi_robot/assets/85929438/c955b964-27fe-46d4-8696-d3c0d106dbe0)
-
 ## Run with nav2 stack
 
 #### Robot Configuration
