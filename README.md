@@ -52,7 +52,10 @@ ros2 run turtlebot3_multi_robot spawn.py
 ```
 
 
-[three.webm](https://github.com/user-attachments/assets/97ac50bc-6281-464f-9f48-2ae6f4c0eb3a)
+
+https://github.com/user-attachments/assets/f9fb63fd-a760-4609-af71-e90a34e90ce2
+
+
 
 
 **References**: https://medium.com/@arshad.mehmood/a-guide-to-multi-robot-navigation-utilizing-turtlebot3-and-nav2-cd24f96d19c6
