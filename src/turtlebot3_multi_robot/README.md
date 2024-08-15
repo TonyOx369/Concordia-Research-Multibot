@@ -13,7 +13,7 @@ The code in the "foxy" branch is compatible with ROS2 humble. In the master bran
 ## Run without nav2 stack
 **Guide**: https://medium.com/@arshad.mehmood/efficient-deployment-and-operation-of-multiple-turtlebot3-robots-in-gazebos-f72f6a364620
 ```
-ros2 launch turtlebot3_multi_robot gazebo_multi_world.launch.py enable_drive:=True
+ros2 launch turtlebot3_multi_robot gazebo_multi_world.launch.py 
 ```
 # turtlebot3_multi_robot
 
@@ -40,7 +40,7 @@ Names and poses for the robots in nav2 example
  ]
 ```
 ```
-ros2 launch turtlebot3_multi_robot gazebo_multi_nav2_world.launch.py enable_drive:=True  use_sim_time:=True
+ros2 launch turtlebot3_multi_robot gazebo_multi_nav2_world.launch.py 
 ```
 ![image](https://github.com/arshadlab/turtlebot3_multi_robot/assets/85929438/621f8884-1cd4-4eab-8ab4-50c1fd42d13b)
 
