@@ -41,19 +41,52 @@ Names and poses for the robots in nav2 example
  # …
  ]
 ```
+## Run with nav2 stack
+
+#### Robot Configuration
+
+The arrangement of robots is configured in gazebo_multi_nav2_world.launch.py launch file. A potential future enhancement could involve retrieving the configurations from a file, such as json.
+
+Names and poses for the robots in nav2 example
+```
+ robots = [
+ {'name': 'tb1', 'x_pose': '-1.5', 'y_pose': '-0.5', 'z_pose': 0.01},
+ {'name': 'tb2', 'x_pose': '-1.5', 'y_pose': '0.5', 'z_pose': 0.01},
+ {'name': 'tb3', 'x_pose': '1.5', 'y_pose': '-0.5', 'z_pose': 0.01},
+ {'name': 'tb4', 'x_pose': '1.5', 'y_pose': '0.5', 'z_pose': 0.01},
+ # …
+ # …
+ ]
+```
+Running the main launch file:
 ```
 ros2 launch turtlebot3_multi_robot gazebo_multi_nav2_world.launch.py 
 ```
+
+Running the Formation creation script:
 ```
-ros2 run turtlebot3_multi_robot goal_listener_and_sender.py 
+ros2 run turtlebot3_multi_robot goal_listener_and_saver.py 
 ```
+
+Running the script for reserving the area:
 ```
 ros2 run turtlebot3_multi_robot spawn.py 
 ```
+Testing the functionality in diiferent scenarios:
+
+
+https://github.com/user-attachments/assets/b5a51564-1e57-465a-a889-aa6557fddbfe
+
+
+https://github.com/user-attachments/assets/6fa495c8-6dd5-4957-809a-7a437e77c46a
+
+
+https://github.com/user-attachments/assets/40f5fae3-106a-4517-9c1b-0101a4c269f1
 
 
 
-https://github.com/user-attachments/assets/f9fb63fd-a760-4609-af71-e90a34e90ce2
+
+
 
 
 
