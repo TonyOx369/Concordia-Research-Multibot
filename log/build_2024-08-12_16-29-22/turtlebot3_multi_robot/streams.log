@@ -1,0 +1,75 @@
+[0.019s] Invoking command in '/home/sid/guard_ws/build/turtlebot3_multi_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sid/guard_ws/build/turtlebot3_multi_robot -- -j8 -l8
+[0.077s] Invoked command in '/home/sid/guard_ws/build/turtlebot3_multi_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sid/guard_ws/build/turtlebot3_multi_robot -- -j8 -l8
+[0.124s] Invoking command in '/home/sid/guard_ws/build/turtlebot3_multi_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sid/guard_ws/build/turtlebot3_multi_robot
+[0.136s] -- Install configuration: ""
+[0.136s] -- Execute custom install script
+[0.137s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/gazebo_multi_nav2_world.launch.py
+[0.137s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/gazebo_multi_world.launch.py
+[0.137s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/nav2_bringup/bringup_launch.py
+[0.137s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/nav2_bringup/localization_launch.py
+[0.138s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/nav2_bringup/navigation_launch.py
+[0.138s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/nav2_bringup/rviz_launch.py
+[0.138s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//launch/nav2_bringup/slam_launch.py
+[0.139s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/marker/model.sdf
+[0.139s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/meshes/burger_base.dae
+[0.139s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/meshes/lds.dae
+[0.139s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/meshes/tire.dae
+[0.139s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/model-1_4.sdf
+[0.140s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/model.config
+[0.140s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_burger/model.sdf
+[0.140s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/meshes/lds.dae
+[0.140s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/meshes/r200.dae
+[0.141s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/meshes/tire.dae
+[0.141s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/meshes/waffle_base.dae
+[0.141s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/model-1_4.sdf
+[0.141s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/model.config
+[0.141s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/model.sdf
+[0.141s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/turtlebot3_waffle/model_nocamera.sdf
+[0.142s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/walls/materials/scripts/mailbox.material
+[0.142s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/walls/materials/textures/Mailbox_Diffuse.png
+[0.142s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/walls/materials/textures/Mailbox_Diffuse.tga.orig
+[0.142s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/walls/materials/textures/Mailbox_Spec.png
+[0.143s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/walls/meshes/mailbox.dae
+[0.143s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/walls/model.config
+[0.143s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//models/walls/model.sdf
+[0.143s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//rviz/multi_nav2_default_view.rviz
+[0.143s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//rviz/nav2_default_view.rviz
+[0.144s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//urdf/common_properties.urdf
+[0.147s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//urdf/turtlebot3_burger.urdf
+[0.148s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//urdf/turtlebot3_waffle.urdf
+[0.148s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//urdf/turtlebot3_waffle23.urdf
+[0.148s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//worlds/ev_9.world
+[0.148s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//worlds/multi_empty_world.world
+[0.149s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//worlds/multi_robot_world.world
+[0.149s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//params/nav2_params.yaml
+[0.149s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//scripts/goal_listener_and_sender.py
+[0.149s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//scripts/monitor_position.py
+[0.149s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot//scripts/spawn.py
+[0.149s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/config/blank_map.pgm
+[0.150s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/config/blank_map.yaml
+[0.150s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/config/map.pgm
+[0.150s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/config/map.yaml
+[0.150s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/config/my_map.pgm
+[0.150s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/config/my_map.yaml
+[0.150s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/config/my_world_map.pgm
+[0.151s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/config/my_world_map.yaml
+[0.151s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/lib/turtlebot3_multi_robot/goal_listener_and_sender.py
+[0.151s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/lib/turtlebot3_multi_robot/monitor_position.py
+[0.151s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/lib/turtlebot3_multi_robot/spawn.py
+[0.151s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/environment/multi_robot.dsv
+[0.151s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/ament_index/resource_index/package_run_dependencies/turtlebot3_multi_robot
+[0.152s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/ament_index/resource_index/parent_prefix_path/turtlebot3_multi_robot
+[0.152s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/environment/ament_prefix_path.sh
+[0.152s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/environment/ament_prefix_path.dsv
+[0.152s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/environment/path.sh
+[0.152s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/environment/path.dsv
+[0.152s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/local_setup.bash
+[0.152s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/local_setup.sh
+[0.153s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/local_setup.zsh
+[0.153s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/local_setup.dsv
+[0.153s] -- Symlinking: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/package.dsv
+[0.168s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/ament_index/resource_index/packages/turtlebot3_multi_robot
+[0.168s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/cmake/turtlebot3_multi_robotConfig.cmake
+[0.168s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/cmake/turtlebot3_multi_robotConfig-version.cmake
+[0.168s] -- Up-to-date symlink: /home/sid/guard_ws/install/turtlebot3_multi_robot/share/turtlebot3_multi_robot/package.xml
+[0.171s] Invoked command in '/home/sid/guard_ws/build/turtlebot3_multi_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sid/guard_ws/build/turtlebot3_multi_robot
