@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="square_walls">
+    <static>true</static>
+    <link name="wall1">
+      <!-- Wall 1 -->
+      <collision name="collision_wall1">
+        <geometry>
+          <box>
+            <size>3 0.1 1</size>
+          </box>
+        </geometry>
+      </collision>
+      <visual name="visual_wall1">
+        <geometry>
+          <box>
+            <size>3 0.1 1</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.7 0.7 0.7 1</ambient>
+          <diffuse>0.7 0.7 0.7 1</diffuse>
+        </material>
+      </visual>
+      <pose>0 1.5 0 0 0 0</pose>
+     </link> 
+      <!-- Wall 2 -->
+          <link name="wall2">
+      <collision name="collision_wall2">
+        <geometry>
+          <box>
+            <size>3 0.1 1</size>
+          </box>
+        </geometry>
+      </collision>
+      <visual name="visual_wall2">
+        <geometry>
+          <box>
+            <size>3 0.1 1</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.7 0.7 0.7 1</ambient>
+          <diffuse>0.7 0.7 0.7 1</diffuse>
+        </material>
+      </visual>
+      <pose>0 -1.5 0 0 0 0</pose>
+      </link>
+      <!-- Wall 3 -->
+          <link name="wall3">
+      <collision name="collision_wall3">
+        <geometry>
+          <box>
+            <size>3 0.1 1</size>
+          </box>
+        </geometry>
+      </collision>
+      <visual name="visual_wall3">
+        <geometry>
+          <box>
+            <size>3 0.1 1</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.7 0.7 0.7 1</ambient>
+          <diffuse>0.7 0.7 0.7 1</diffuse>
+        </material>
+      </visual>
+      <pose>1.5 0 0 0 0 1.5708</pose> <!-- 90 degrees rotation -->
+      </link>
+      
+      <!-- Wall 4 -->
+          <link name="wall4">
+      <collision name="collision_wall4">
+        <geometry>
+          <box>
+            <size>3 0.1 1</size>
+          </box>
+        </geometry>
+      </collision>
+      <visual name="visual_wall4">
+        <geometry>
+          <box>
+            <size>3 0.1 1</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.7 0.7 0.7 1</ambient>
+          <diffuse>0.7 0.7 0.7 1</diffuse>
+        </material>
+      </visual>
+      <pose>-1.5 0 0 0 0 1.5708</pose> <!-- 90 degrees rotation -->
+</link>
+<link name="link">
+      <inertial>
+        <mass>100.0</mass>
+        <inertia>
+          <ixx>0.1</ixx>
+          <ixy>0.0</ixy>
+          <ixz>0.0</ixz>
+          <iyy>0.1</iyy>
+          <iyz>0.0</iyz>
+          <izz>0.1</izz>
+        </inertia>
+      </inertial>
+  
+      <visual name="visual">
+        <geometry>
+          <box>
+            <size>3.0 3.0 0.01</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 0 0 1</ambient>  <!-- Red color -->
+        </material>
+      </visual>
+      <pose>0 0 0.0 0 0 0</pose>
+    </link>
+  </model>
+</sdf>
