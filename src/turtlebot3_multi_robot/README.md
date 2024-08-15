@@ -22,7 +22,6 @@ ros2 launch turtlebot3_multi_robot gazebo_multi_world.launch.py
 ![image](https://github.com/arshadlab/turtlebot3_multi_robot/assets/85929438/c955b964-27fe-46d4-8696-d3c0d106dbe0)
 
 ## Run with nav2 stack
-**Guide**: https://medium.com/@arshad.mehmood/a-guide-to-multi-robot-navigation-utilizing-turtlebot3-and-nav2-cd24f96d19c6
 
 #### Robot Configuration
 
@@ -52,3 +51,8 @@ Rviz2 output for first robot
 Rviz2 output for all 4 robots
 
 ![image](https://github.com/arshadlab/turtlebot3_multi_robot/assets/85929438/e3ae59a2-ddae-4c80-8232-2d06d053b3e8)
+
+
+
+**References**: https://medium.com/@arshad.mehmood/a-guide-to-multi-robot-navigation-utilizing-turtlebot3-and-nav2-cd24f96d19c6
+
