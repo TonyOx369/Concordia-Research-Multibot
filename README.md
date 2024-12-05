@@ -16,7 +16,7 @@ cd robot_ws
 source /opt/ros/humble/setup.bash
 rosdep install --from-paths src -r -y
 ```
-## Run without nav2 stack
+## Run without the nav2 stack
 ```
 ros2 launch turtlebot3_multi_robot gazebo_multi_world.launch.py 
 ```
@@ -24,7 +24,7 @@ ros2 launch turtlebot3_multi_robot gazebo_multi_world.launch.py
 
 ![image](https://github.com/arshadlab/turtlebot3_multi_robot/assets/85929438/fc958709-018d-48d2-b5b6-6674b53913c8)
 
-## Run with nav2 stack
+## Run with the nav2 stack
 
 #### Robot Configuration
 
